@@ -1,2 +1,1 @@
-# hacks
-hacks c#,typescript,angular
+1. new (<any>Highcharts).hacks to skip type checking by complier
