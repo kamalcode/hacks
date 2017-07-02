@@ -1,2 +1,2 @@
-# hacks
-hacks c#,typescript,angular
+update npm version
+npm -i -g npm
